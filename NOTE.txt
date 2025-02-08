@@ -1,0 +1,14 @@
+CARA AKTIFKAN RTSP_ONVIF_IP_CAMERA DI Windows
+
+Creator Boychongzen aka Xroot
+
+
+1. Siapkan Sdcard & Copas di file ceshi.ini ke Sdcard
+2. Sdcard Tancapkan ke CCTV Anda & Tunggu Sampai Selesai CCTV Aktif
+3. Copot Sdcard yg di CCTV
+4. Install odm-v2.2.250r di Windows Anda
+5. Langsung Scan CCTV Pakai Apps ODM
+6. Contoh URL rtsp://192.1Bur68.x.xx/live/ch00_1
+ 
+
+
