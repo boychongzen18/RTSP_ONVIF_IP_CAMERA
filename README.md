@@ -5,6 +5,9 @@
 #  TAMPILAN CCTV di Android
 ![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/hp.jpg)
 
+#  TAMPILAN CCTV di Windows
+![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/laptop.jpg)
+
 
 My Youtube    : https://www.youtube.com/@AksesInternet2023
 
