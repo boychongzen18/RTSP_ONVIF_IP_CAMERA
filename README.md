@@ -1,14 +1,14 @@
-# CARA REMOTE IP CAMERA DI ZEROTIER
+# CARA Remote IP CAMERA di Zerotier
 
 # Created Boychongzen aka Xroot
 
-#  TAMPILAN CCTV REMOTE VIA ZEROTIER
+#  Tampilan CCTV Remote Via Zerotier
 ![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/2.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/1.jpg)
 
 #  TAMPILAN CCTV via ODM di Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/laptop.jpg)
-#  TAMPILAN CCTV via Ivideon di Windows
+#  Tampilan CCTV via Ivideon Server & Client di Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/Ivideon.jpg)
 
 
