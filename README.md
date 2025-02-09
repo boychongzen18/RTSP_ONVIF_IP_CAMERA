@@ -6,8 +6,10 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/2.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/1.jpg)
 
-#  TAMPILAN CCTV di Windows
+#  TAMPILAN CCTV via ODM di Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/laptop.jpg)
+#  TAMPILAN CCTV via Ivideon di Windows
+![be](https://raw.githubusercontent.com/boychongzen18/RTSP_ONVIF_IP_CAMERA/refs/heads/main/Ivideon.jpg)
 
 
 My Youtube    : https://www.youtube.com/@AksesInternet2023
