@@ -9,6 +9,14 @@ Creator Boychongzen aka Xroot
 4. Install odm-v2.2.250r di Windows Anda
 5. Langsung Scan CCTV Pakai Apps ODM
 6. Contoh URL rtsp://192.1Bur68.x.xx/live/ch00_1
+
+
+
+Link Ivideon Server Windows
+
+SERVER : https://drive.usercontent.google.com/download?id=1TJMG51kJ-Kju04pPS8RENnxew3IVeQ9G&export=download&authuser=0
+
+cLIENT : https://drive.google.com/file/d/1BM9ClcssvKLo1v6rvUqY5OI41yByp6Ow/view
  
 
 
