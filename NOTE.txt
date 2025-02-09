@@ -17,6 +17,10 @@ Link Ivideon Server Windows
 SERVER : https://drive.usercontent.google.com/download?id=1TJMG51kJ-Kju04pPS8RENnxew3IVeQ9G&export=download&authuser=0
 
 cLIENT : https://drive.usercontent.google.com/download?id=1BM9ClcssvKLo1v6rvUqY5OI41yByp6Ow&export=download&authuser=0
+
+
+
+IP DATABASE : \\192.168.82.1\
  
 
 
