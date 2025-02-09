@@ -20,7 +20,7 @@ cLIENT : https://drive.usercontent.google.com/download?id=1BM9ClcssvKLo1v6rvUqY5
 
 
 
-IP DATABASE : \\192.168.82.1\
+IP SERVER OPENWRT : \\192.168.82.1\
  
 
 
